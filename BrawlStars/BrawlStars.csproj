@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <None Include="wwwroot\css\brawl.css" />
+      <None Include="wwwroot\css\brawl2.css" />
+      <None Include="wwwroot\lib\images\image.jpg" />
+      <None Include="wwwroot\lib\images\image29.png" />
+      <None Include="wwwroot\lib\images\image6.png" />
+      <None Include="wwwroot\lib\images\image7.png" />
+    </ItemGroup>
+
+</Project>
